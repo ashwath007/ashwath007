@@ -33,8 +33,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwath007&theme=light&hide_langs_below=1" />
 </a>
 
-[![Linkedin: Sri Vigneshwar DJ](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
-[![GitHub Sri Vigneshwar DJ](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/ashwath007)
+<a href="https://github.com/ashwath007">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Vicky's github stats"/>
+</a>
 
 [linkedin]: https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/
 
