@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwath007&theme=light&hide_langs_below=1" />
 </a>
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
+[![Linkedin: Sri Vigneshwar DJ](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 
 [linkedin]: https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/
