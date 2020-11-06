@@ -32,10 +32,15 @@
 <a href="https://github.com/ashwath007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwath007&theme=light&hide_langs_below=1" />
 </a>
+<br/>
+<div align="center">
 
 <a href="https://github.com/ashwath007">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwath007&show_icons=true&theme=light&line_height=27" alt="Vicky's github stats"/>
 </a>
+
+</div>
+
 
 [linkedin]: https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/
 
