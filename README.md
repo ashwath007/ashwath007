@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://github.com/ashwath007">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Vicky's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwath007&show_icons=true&theme=light&line_height=27" alt="Vicky's github stats"/>
 </a>
 
 [linkedin]: https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/
