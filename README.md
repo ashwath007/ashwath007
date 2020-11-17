@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![Linkedin: SriVicky](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
+[![Linkedin: SriVicky](https://img.shields.io/badge/-srivigneshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
 [![GitHub SriVicky](https://img.shields.io/github/followers/ashwath007?label=follow&style=social)](https://github.com/ashwath007)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
