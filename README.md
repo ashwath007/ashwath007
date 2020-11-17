@@ -13,6 +13,7 @@
 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ashwath007&show_icons=true&theme=tokyonight" /></p>
 <br/>
 
@@ -32,10 +33,6 @@
 
 
 
-
-<a href="https://github.com/ashwath007">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwath007&show_icons=true&theme=light&line_height=27" alt="Vicky's github stats"/>
-</a>
 
 
 
