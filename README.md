@@ -11,6 +11,8 @@
 
 ### Connect with me:
 
+[![Linkedin: D J Sri Vigneshwar](https://img.shields.io/badge/-D J Sri Vigneshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
