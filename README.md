@@ -20,6 +20,16 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ashwath007&show_icons=true&theme=tokyonight" /></p>
 <br/>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++          2 hrs 34 mins   ██████████████████░░░░░░░   71.58 % 
+JSON         32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Git Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+
 ### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
