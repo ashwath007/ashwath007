@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [![Linkedin: SriVicky](https://img.shields.io/badge/-srivigneshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
-[![Linkedin: SriVicky](https://img.shields.io/badge/followers/ashwath007?label=follow&style=social)](https://www.linkedin.com/in/d-j-sri-vigneshwar-bb2853119/)
+
 [![GitHub SriVicky](https://img.shields.io/github/followers/ashwath007?label=follow&style=social)](https://github.com/ashwath007)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,11 +23,12 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++          2 hrs 34 mins   ██████████████████░░░░░░░   71.58 % 
-JSON         32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Git Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+ML              2 hrs 34 mins   ██████████████████░░░░░░░   71.58 % 
+Python          32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+JAVA            32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Git Config      12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other           7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+JavaScript      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 ### Languages and Tools:
