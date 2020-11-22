@@ -52,7 +52,7 @@ JavaScript      4 mins          ▓░░░░░░░░░░░░░░░
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-![alt text](./okok.png)
+
 
 
 
