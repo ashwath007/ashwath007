@@ -33,6 +33,10 @@ JavaScript      4 mins          ▓░░░░░░░░░░░░░░░
 
 ### Languages and Tools:
 
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwath007&layout=compact&theme=tokyonigh)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ashwath007&theme=merko&show_icons=true)
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
