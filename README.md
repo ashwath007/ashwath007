@@ -20,6 +20,8 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ashwath007&show_icons=true&theme=tokyonight" /></p>
 <br/>
 
+![](https://activity-graph.herokuapp.com/graph?username=ashwath007&theme=react-dark&area=true)
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
